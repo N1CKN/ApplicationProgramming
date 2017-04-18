@@ -1,10 +1,12 @@
 
-public class Customer {
+public class Customer extends Admin{
 
-	public static void main(String[] args) {
+	int reservationID;
 
-int x = 5;
-int y;
+	
+	Customer(){
+		
 	}
+
 
 }
